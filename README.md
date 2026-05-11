@@ -1,7 +1,7 @@
 # 山音超级导演大师｜Claude Director Agent
 > 纯自然语言 Claude Skills 文件 | 影视导演智能Agent | 分镜表自动生成
 > 联动：[山音超级编剧大师](https://github.com/Shanyin-ai/shanyin-screenwriting-master)
-
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/893151b4-4dc0-4db0-84ac-50e993238274.svg)](https://oosmetrics.com/repo/Shanyin-ai/shanyin-director-master)
 ## 🎬 项目介绍
 **山音超级导演大师**是为 Claude 设计的**纯自然语言导演技能**，无任何编程语言，开箱即用。
 核心能力：从剧本一键生成**工业标准九列分镜表（xlsx）**，内置顶级导演视听理论+全类型风格模板，支持全格式影片分镜拆解。
